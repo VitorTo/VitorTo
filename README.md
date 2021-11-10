@@ -37,5 +37,7 @@
 ![Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=for-the-badge&logo=Sql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
+<div>
 ![Snake animation](https://github.com/VitorTo/VitorTo/blob/output/github-contribution-grid-snake.svg)
+</div>
 
