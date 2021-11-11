@@ -1,4 +1,4 @@
-## Olá,  Eu sou Vitor Gabriel 👨🏻‍💻
+## Olá 👋
 
 ### Sobre Mim
 <p>
