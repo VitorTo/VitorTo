@@ -6,13 +6,18 @@
 <p>
     Sempre estudando linguaguens e novas tecnologias, facilidade de trabalhar em grupos, responsável e Otimista sempre disposto a aprender e ensinar.. Lealdade e discrição são minhas virtudes.
 <br>
-<p>
+<p align="left">
     
-<img align="left" height="155px" Src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorTo&show_icons=true&bg_color=DEG,05122A,0C3787,4F8DFF&text_color=8BFFBF&icon_color=0CF574&title_color=fff"/><img align="right" height="155px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorTo&layout=compact&langs_count=8&&bg_color=DEG,4F8DFF,0C3787,05122A&text_color=8BFFBF&icon_color=0CF574&title_color=0CF574&"/>
+<img  height="166em" Src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorTo&show_icons=true&bg_color=DEG,05122A,0C3787,4F8DFF&text_color=8BFFBF&icon_color=0CF574&title_color=fff"/>
+
+<img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorTo&layout=compact&langs_count=8&&bg_color=DEG,4F8DFF,0C3787,05122A&text_color=8BFFBF&icon_color=0CF574&title_color=0CF574&"/>
     
 </p>
 
-<main style="display:flex; " >
+ <br>
+
+
+<main>
 <div align="left" >
   
   ### Conhecimentos nas áreas:
