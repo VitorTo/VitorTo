@@ -3,11 +3,14 @@
 ### GitHub Analytics:
 <p align="left">
   
-<img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorTo&show_icons=true&bg_color=DEG,000000,00341B,0CF574&text_color=8BFFBF&icon_color=0CF574&title_color=0CF574"/>
-<img height="155em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorTo&layout=compact&langs_count=8&&bg_color=DEG,0CF574,00341B,000000&text_color=8BFFBF&icon_color=0CF574&title_color=0CF574&"/>
-  
+<img height="200px" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorTo&show_icons=true&bg_color=DEG,05122A,0C3787,4F8DFF&text_color=8BFFBF&icon_color=0CF574&title_color=fff"/>
+<img height="155px" width="50%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorTo&layout=compact&langs_count=8&&bg_color=DEG,0CF574,00341B,000000&text_color=8BFFBF&icon_color=0CF574&title_color=0CF574&"/>
+ </p>
+ 
 ##
+
 ### Principais Skills:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Php" height="50" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
