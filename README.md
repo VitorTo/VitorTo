@@ -6,7 +6,7 @@
 <p>
     Sempre estudando linguaguens e novas tecnologias, facilidade de trabalhar em grupos, responsável e Otimista sempre disposto a aprender e ensinar.. Lealdade e discrição são minhas virtudes.    
 
-<p align="left">
+<p align="center">
     
 <img  height="155em" Src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorTo&show_icons=true&bg_color=DEG,05122A,0C3787,4F8DFF&text_color=8BFFBF&icon_color=0CF574&title_color=fff"/>
 
