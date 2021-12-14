@@ -4,7 +4,7 @@
 <p>
     Estudante de Análise e Desenvolvimento de Sistemas (UNIFEOB). Meu Hobby é música e leitura, multi-instrumentista.
 <p>
-    Sempre estudando linguaguens e novas tecnologias, facilidade de trabalhar em grupos, responsável e otimista sempre disposto a aprender e ensinar.. Lealdade e discrição são minhas virtudes.    
+   Sempre estudando linguagens e novas tecnologias, possuo facilidade em trabalhar com grupos,  sou responsável e otimista sempre querendo aprender, ousar e superar os desafios. Lealdade e discrição são minhas virtudes.   
 
 <p align="center">
     
