@@ -2,9 +2,9 @@
 
 ### Sobre Mim
 <p>
-    Estudante de Análise e Desenvolvimento de Sistemas (UNIFEOB). Meu Hobby é musica e leitura, multi-instrumentista.
+    Estudante de Análise e Desenvolvimento de Sistemas (UNIFEOB). Meu Hobby é música e leitura, multi-instrumentista.
 <p>
-    Sempre estudando linguaguens e novas tecnologias, facilidade de trabalhar em grupos, responsável e Otimista sempre disposto a aprender e ensinar.. Lealdade e discrição são minhas virtudes.    
+    Sempre estudando linguaguens e novas tecnologias, facilidade de trabalhar em grupos, responsável e otimista sempre disposto a aprender e ensinar.. Lealdade e discrição são minhas virtudes.    
 
 <p align="center">
     
